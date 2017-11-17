@@ -15,7 +15,7 @@ import {
   Text,
   View
 } from 'react-native';
-import { CardList } from './react-native-card-list';
+import { CardList } from 'react-native-card-list';
 
 const cards = [
   {
@@ -55,5 +55,4 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
   }
-});
 ```
